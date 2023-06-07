@@ -223,6 +223,11 @@
     padding: 0 50px;
   }
 
+  .industry__item {
+    width: unset;
+    max-width: unset;
+  }
+
   .partners__newsletter {
     flex-flow: column nowrap;
     left: -50px;
