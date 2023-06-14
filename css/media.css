@@ -278,6 +278,19 @@
 }
 
 @media (max-width: 576px) {
+
+  .hero__quote {
+    padding: 16px 24px;
+  }
+
+  .container {
+    padding: 0 20px;
+  }
+
+  .partners__newsletter {
+    left: -20px;
+  }
+
   .footer__list {
     flex-flow: column nowrap;
   }
